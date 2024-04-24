@@ -146,4 +146,3 @@ Package managers are a free-software user interface that work with an online ser
 - sudo dpkg -r <packagename>
     
 - sudo dpkg -P <packagename>
-
